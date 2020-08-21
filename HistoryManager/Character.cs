@@ -17,7 +17,7 @@ namespace HistoryManager
         public string Group { get; set; }
     }
 
-    public   struct Field
+    public struct Field
     {
         public string Name { get; set; }
         public string Vaue { get; set; }
